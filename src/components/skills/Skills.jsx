@@ -4,7 +4,7 @@ import {BsCheck2Square} from 'react-icons/bs'
 
 const Skills = () => {
     return(
-        <section id="skills">
+        <section id="skills" className="skill">
             <h5>What are my skills</h5>
             <h2>Skills</h2>
 

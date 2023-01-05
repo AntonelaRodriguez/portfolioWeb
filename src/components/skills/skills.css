@@ -1,3 +1,7 @@
+.skill{
+    padding-top: 7rem;
+}
+
 .skills__container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);

@@ -37,6 +37,10 @@
 }
 
 /* ------------------FORM------------------- */
+.contact{
+    padding-top: 7rem;
+}
+
 form{
     display: flex;
     flex-direction: column;
