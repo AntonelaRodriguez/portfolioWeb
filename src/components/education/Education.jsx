@@ -1,8 +1,8 @@
 import React from "react";
 import './education.css';
 import AVT1 from '../../assets/logoHenry.png';
-import AVT2 from '../../assets/logoHenry.png';
-import AVT3 from '../../assets/logoHenry.png';
+import AVT2 from '../../assets/logoNucba.png';
+import AVT3 from '../../assets/logo_UAI.jpg';
 
 import { Pagination } from 'swiper';
 
@@ -15,18 +15,18 @@ import 'swiper/css/pagination';
 const data = [
     {
         avatar: AVT1,
-        name: "Henry",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quaerat exercitationem voluptatibus a non, laborum tenetur autem corporis! Laborum voluptates quidem tempora consequatur repellendus. Quis similique dignissimos repellendus optio cum!",
+        name: "HENRY - Full Stack Developer",
+        description: "An intensive online  (Bootcamp) that simulates a real work environment and prepares for a successful career as a Full Stack developer.",
     },
     {
         avatar: AVT2,
-        name: "Henry",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quaerat exercitationem voluptatibus a non, laborum tenetur autem corporis! Laborum voluptates quidem tempora consequatur repellendus. Quis similique dignissimos repellendus optio cum!",
+        name: "NUCBA - Full Stack Developer",
+        description: "At Nucba, I learned the most important skills in programming, design and digital economy skills.",
     },
     {
         avatar: AVT3,
-        name: "Henry",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quaerat exercitationem voluptatibus a non, laborum tenetur autem corporis! Laborum voluptates quidem tempora consequatur repellendus. Quis similique dignissimos repellendus optio cum!",
+        name: "UAI - Nutrition degree",
+        description: "Nutritinist with the capacity for autonomy, leadership and decision-making, who works in the clinical, community, educational and management areas.",
     },
 ]
 

@@ -40,7 +40,8 @@ const About = () => {
                         </article>
                     </div>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus similique maxime architecto aliquam accusamus dolore officia, amet omnis doloribus perferendis hic voluptatum dolores minima nesciunt, commodi fugit, repellat error mollitia!
+                    A Full Stack Developer and Nutritionist who combines two different and complementary worlds which helped me develop my interpersonal skills like teamwork, problem-solving and communication skills.
+                    I am a curious person, a characteristic that I like a lot, that's why I'm constantly learning new skills in terms of web development and programming.
                     </p>
 
                     <a href="#contact" className="btn btn-primary">Contact me!</a>

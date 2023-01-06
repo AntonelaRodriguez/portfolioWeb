@@ -47,6 +47,13 @@ const Experience = () => {
                                 <small className="text-light">Experienced</small>
                             </div>
                         </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>Chakra</h4>
+                                <small className="text-light">Experienced</small>
+                            </div>
+                        </article>
                     </div>
                 </div>
 
@@ -63,6 +70,13 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
+                                <h4>SQL</h4>
+                                <small className="text-light">Experienced</small>
+                            </div>
+                        </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
                                 <h4>MongoDB</h4>
                                 <small className="text-light">Experienced</small>
                             </div>
@@ -70,14 +84,14 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
-                                <h4>PHP</h4>
+                                <h4>TypeScrip</h4>
                                 <small className="text-light">Experienced</small>
                             </div>
                         </article>
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
-                                <h4>MySQL</h4>
+                                <h4>JAVA</h4>
                                 <small className="text-light">Experienced</small>
                             </div>
                         </article>
