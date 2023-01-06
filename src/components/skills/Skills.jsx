@@ -54,19 +54,19 @@ const Skills = () => {
                     <ul className="skills__list">
                         <li>
                             {/* <BsCheck2Square className="skills__list-icon"/> */}
-                            <p>Design and develop a “Pokémon” app</p>
+                            <p>- Design and develop a “Pokémon” app</p>
                         </li>
                         <li>
                             {/* <BsCheck2Square className="skills__list-icon"/> */}
-                            <p>Includes searching, filtering, sorting, creating, editing, and deleting.</p>
+                            <p>- Includes searching, filtering, sorting, creating, editing, and deleting.</p>
                         </li>
                         <li>
                             {/* <BsCheck2Square className="skills__list-icon"/> */}
-                            <p>Programming the app using for Front React, Redux and pure CSS.</p>
+                            <p>- Programming the app using for Front React, Redux and pure CSS.</p>
                         </li>
                         <li>
                             {/* <BsCheck2Square className="skills__list-icon"/> */}
-                            <p>The Back was developed using Node.js with Express.</p>
+                            <p>- The Back was developed using Node.js with Express.</p>
                         </li>
                     </ul>
                 </article>
@@ -78,12 +78,12 @@ const Skills = () => {
 
                     <ul className="skills__list">
                         <li>
-                            <BsCheck2Square className="skills__list-icon"/>
-                            <p>An E-commerce of meals sales and nutritional services.</p>
+                            {/* <BsCheck2Square className="skills__list-icon"/> */}
+                            <p>- An E-commerce of meals sales and nutritional services.</p>
                         </li>
                         <li>
-                            <BsCheck2Square className="skills__list-icon"/>
-                            <p>Design the user interface and aesthetic experience of the web page</p>
+                            {/* <BsCheck2Square className="skills__list-icon"/> */}
+                            <p>- Design the user interface and aesthetic experience of the web page</p>
                         </li>
                     </ul>
                 </article>
