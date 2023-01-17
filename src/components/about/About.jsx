@@ -40,7 +40,7 @@ const About = () => {
                         </article>
                     </div>
                     <p>
-                    A Full Stack Developer and Nutritionist who combines two different and complementary worlds which helped me develop my interpersonal skills like teamwork, problem-solving and communication skills.
+                    A Full Stack Developer and Nutritionist who combines two different and complementary worlds which helped me develop my interpersonal skills like teamwork, problem-solving and communication.
                     I am a curious person, a characteristic that I like a lot, that's why I'm constantly learning new skills in terms of web development and programming.
                     </p>
 
