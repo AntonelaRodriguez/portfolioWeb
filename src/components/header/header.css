@@ -39,8 +39,8 @@
 /*------------------- Socials ---------------------*/
 .me{
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 30rem;
+    width: 17rem;
+    height: 25rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
@@ -63,10 +63,6 @@
 @media screen and (max-width: 1024px) {
     .header{
         height: 68vh;
-    }
-    .me{
-        width: 18rem;
-        height: 26rem;
     }
 }
 
