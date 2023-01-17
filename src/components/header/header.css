@@ -62,7 +62,7 @@
 /* --------------------------- MEDIA QUERIES (MEDIUM) ------------------------- */
 @media screen and (max-width: 1024px) {
     .header{
-        height: 100vh;
+        height: 48vh;
     }
 }
 
