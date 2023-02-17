@@ -26,9 +26,9 @@ const Nav = () => {
                 className={activeNav === '#experience' ? 'active' : ''}
             ><MdWork/></a>
             <a
-                href="#skills"
-                onClick={() => setActiveNav("#skills")} 
-                className={activeNav === '#skills' ? 'active' : ''}
+                href="#portfolio"
+                onClick={() => setActiveNav("#portfolio")} 
+                className={activeNav === '#portfolio' ? 'active' : ''}
             ><GiSkills/></a>
             <a 
                 href="#contact"

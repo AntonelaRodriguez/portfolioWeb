@@ -3,6 +3,7 @@ import './education.css';
 import AVT1 from '../../assets/logoHenry.png';
 import AVT2 from '../../assets/logoNucba.png';
 import AVT3 from '../../assets/logo_UAI.jpg';
+import AVT4 from '../../assets/UNT.jpg';
 
 import { Pagination } from 'swiper';
 
@@ -16,17 +17,22 @@ const data = [
     {
         avatar: AVT1,
         name: "HENRY - Full Stack Developer",
-        description: "An intensive online  (Bootcamp) that simulates a real work environment and prepares for a successful career as a Full Stack developer.",
+        description: "2022 - 2023",
     },
     {
         avatar: AVT2,
-        name: "NUCBA - Full Stack Developer",
-        description: "At Nucba, I learned the most important skills in programming, design and digital economy skills.",
+        name: "NUCBA - Web Design",
+        description: "2021 - 2022",
+    },
+    {
+        avatar: AVT4,
+        name: "UNT - Administration degree",
+        description: "2021 - present",
     },
     {
         avatar: AVT3,
         name: "UAI - Nutrition degree",
-        description: "Nutritinist with the capacity for autonomy, leadership and decision-making, who works in the clinical, community, educational and management areas.",
+        description: "2015 - 2020",
     },
 ]
 

@@ -27,13 +27,13 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
-                                <h4>JavaScript</h4>
+                                <h4>ReactJS</h4>
                             </div>
                         </article>
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
-                                <h4>React-Redux</h4>
+                                <h4>Redux</h4>
                             </div>
                         </article>
                         <article className="experience__details">
@@ -45,7 +45,13 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
-                                <h4>Chakra</h4>
+                                <h4>ChakraUI</h4>
+                            </div>
+                        </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>Figma</h4>
                             </div>
                         </article>
                     </div>
@@ -81,7 +87,19 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
-                                <h4>MongoDB</h4>
+                                <h4>JavaScript</h4>
+                            </div>
+                        </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>TypeScript</h4>
+                            </div>
+                        </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>PostgreSQL</h4>
                             </div>
                         </article>
                     </div>

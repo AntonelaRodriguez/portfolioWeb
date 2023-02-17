@@ -3,24 +3,32 @@ import './portfolio.css';
 import IMG1 from '../../assets/candyshop.png'
 import IMG2 from '../../assets/pokemon.png'
 import IMG3 from '../../assets/509be709-8b7f-4ce1-8089-babf11141785.png'
+import IMG4 from '../../assets/Menu.png'
 
 const data = [
     {
         id: 1,
+        image: IMG4,
+        title: "Virtual Menu - Beerlin Bar & Pub",
+        github: 'https://github.com/AntonelaRodriguez/VirtualMenuB',
+        // demo: 'https://candy-shop-sage.vercel.app/'
+    },
+    {
+        id: 2,
         image: IMG1,
         title: "CandyShop",
         github: 'https://github.com/AntonelaRodriguez/CandyShop',
         demo: 'https://candy-shop-sage.vercel.app/'
     },
     {
-        id: 2,
+        id: 3,
         image: IMG2,
-        title: "Individual project - sHenry Pokemon",
+        title: "Pokémon App",
         github: 'https://github.com/AntonelaRodriguez/pokemon',
         // demo: 'https://integrador-dise-o-6qskoydhx-antonelarodriguez.vercel.app/'
     },
     {
-        id: 3,
+        id: 4,
         image: IMG3,
         title: "Nutriendo tus días",
         github: 'https://github.com/AntonelaRodriguez',
