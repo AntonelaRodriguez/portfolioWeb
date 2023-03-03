@@ -3,7 +3,7 @@ import './education.css';
 import AVT1 from '../../assets/logoHenry.png';
 import AVT2 from '../../assets/logoNucba.png';
 import AVT3 from '../../assets/logo_UAI.jpg';
-import AVT4 from '../../assets/UNT.jpg';
+import AVT4 from '../../assets/UNT.png';
 
 import { Pagination } from 'swiper';
 
@@ -26,8 +26,8 @@ const data = [
     },
     {
         avatar: AVT4,
-        name: "UNT - Administration degree",
-        description: "2021 - present",
+        name: "UNT - College degree in Programming",
+        description: "2021 - 2022",
     },
     {
         avatar: AVT3,
