@@ -26,7 +26,7 @@ const data = [
     },
     {
         avatar: AVT4,
-        name: "UNT - College degree in Programming",
+        name: "UTN - College degree in Programming",
         description: "2021 - 2022",
     },
     {
