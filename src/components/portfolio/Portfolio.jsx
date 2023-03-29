@@ -4,6 +4,7 @@ import IMG1 from '../../assets/candyshop.png'
 import IMG2 from '../../assets/pokemon.png'
 import IMG3 from '../../assets/509be709-8b7f-4ce1-8089-babf11141785.png'
 import IMG4 from '../../assets/Menu.png'
+import IMG5 from '../../assets/209015942-47012eea-d51c-491f-ad8b-c45ec034146b.jpg'
 
 const data = [
     {
@@ -31,8 +32,15 @@ const data = [
         id: 4,
         image: IMG3,
         title: "Nutriendo tus días",
-        github: 'https://github.com/AntonelaRodriguez',
+        github: 'https://github.com/AntonelaRodriguez/integradorDise-oWeb',
         demo: 'https://integrador-dise-o-6qskoydhx-antonelarodriguez.vercel.app/'
+    },
+    {
+        id: 5,
+        image: IMG5,
+        title: "Punto de venta",
+        github: 'https://github.com/AntonelaRodriguez/SISTEMA_PUNTO_DE_VENTAS',
+        // demo: 'https://integrador-dise-o-6qskoydhx-antonelarodriguez.vercel.app/'
     },
 ];
 
