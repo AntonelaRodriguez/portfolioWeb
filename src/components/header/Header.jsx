@@ -1,7 +1,7 @@
 import React from "react";
 import './header.css';
 import Btns from "./btns/btns";
-import myImage from "../../assets/me1_alternative.png";
+import myImage from "../../assets/me1.png";
 import HeaderSocials from "./headerSocials/HeaderSocials";
 
 const Header = () => {
