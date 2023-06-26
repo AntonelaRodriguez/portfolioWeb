@@ -1,6 +1,6 @@
 import React from "react";
 import './about.css';
-import myImage from '../../assets/me.png';
+import myImage from '../../assets/me_transparent.png';
 import {CgAlbum} from 'react-icons/cg';
 import {FaUserGraduate} from 'react-icons/fa';
 import {VscFolderLibrary} from 'react-icons/vsc';
