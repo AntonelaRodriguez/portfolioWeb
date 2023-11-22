@@ -57,6 +57,18 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
+                                <h4>Angular</h4>
+                            </div>
+                        </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>Angular Material UI</h4>
+                            </div>
+                        </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
                                 <h4>Figma</h4>
                             </div>
                         </article>
@@ -81,7 +93,7 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
-                                <h4>JAVA</h4>
+                                <h4>Express</h4>
                             </div>
                         </article>
                         <article className="experience__details">
@@ -93,7 +105,7 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
-                                <h4>Express</h4>
+                                <h4>.NET</h4>
                             </div>
                         </article>
                         <article className="experience__details">
@@ -130,6 +142,12 @@ const Experience = () => {
                             <BsPatchCheckFill className="experience__details-icon"/>
                             <div>
                                 <h4>MongoDB</h4>
+                            </div>
+                        </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon"/>
+                            <div>
+                                <h4>SQL Server</h4>
                             </div>
                         </article>
                     </div>

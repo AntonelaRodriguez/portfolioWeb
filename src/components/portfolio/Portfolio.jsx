@@ -3,7 +3,7 @@ import './portfolio.css';
 import IMG1 from '../../assets/candyshop.png'
 import IMG2 from '../../assets/pokemon.png'
 import IMG3 from '../../assets/509be709-8b7f-4ce1-8089-babf11141785.png'
-import IMG4 from '../../assets/Menu.png'
+import IMG4 from '../../assets/SV.png'
 import IMG5 from '../../assets/209015942-47012eea-d51c-491f-ad8b-c45ec034146b.jpg'
 import IMG6 from '../../assets/codoACodo.png'
 
@@ -11,8 +11,8 @@ const data = [
     {
         id: 1,
         image: IMG4,
-        title: "Virtual Menu - Beerlin Bar & Pub",
-        github: 'https://github.com/AntonelaRodriguez/VirtualMenuB',
+        title: "Sistema de Venta - Mia Perla",
+        github: 'https://github.com/AntonelaRodriguez/SistemaVenta',
         // demo: 'https://candy-shop-sage.vercel.app/'
     },
     {
